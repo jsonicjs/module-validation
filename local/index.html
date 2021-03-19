@@ -1,0 +1,9 @@
+<h1>Jsonic local</h1>
+<pre id="main"></pre>
+    
+<script src="node_modules/jsonic/jsonic.min.js"></script>    
+<script>
+let json = Jsonic('a:1')
+console.log(json)
+document.getElementById('main').innerHTML = JSON.stringify(json)
+</script>

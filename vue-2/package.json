@@ -1,0 +1,17 @@
+{
+  "name": "vue-2",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "vue serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli": "^4.5.12",
+    "@vue/cli-service-global": "^4.5.12",
+    "jsonic": "github:jsonicjs/jsonic#nextgen",
+    "vue": "^2.6.12"
+  }
+}

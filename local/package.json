@@ -1,0 +1,15 @@
+{
+  "name": "local",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "serve": "serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsonic": "github:jsonicjs/jsonic#nextgen",
+    "serve": "^11.3.2"
+  }
+}
